@@ -2,6 +2,8 @@
 
 <h3 align="center">Backend Developer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=J0el0g&label=Profile%20views&color=0e75b6&style=flat" alt="J0el0g" /> </p>
+
 <h3 align="center">A few little things about me:</h3>
 </p>
 
