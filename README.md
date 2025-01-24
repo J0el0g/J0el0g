@@ -4,13 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=J0el0g&label=Profile%20views&color=0e75b6&style=flat" alt="J0el0g" /> </p>
 
-<h3 align="center">A few little things about me:</h3>
-</p>
-
-<h5 align="center">Nice to meet you! My name is Joel, and I hail from Germany, specifically North Rhine-Westphalia. I am a Backend C# Developer, currently immersed in the world of programming. My current project involves working on an AltV server named "NEXT0NE." It's an exciting venture, and I'm dedicated to bringing innovation and efficiency to its development. If you have any questions or want to know more about my work, feel free to ask!</h5>
-</p>
-
-
 <h3 align="center">My languages:</h3>
 <p align="center">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
